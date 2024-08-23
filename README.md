@@ -8,7 +8,7 @@ Pour me contacter, cela peut passer par :
 <ul>
   <li>le <a href="https://discord.com/invite/VU4z9AF">serveur Discord</a> de Second Wind</li>
   <li>la <a href="https://gamebanana.com/wips/76252">page Gamebanana</a> du mod</li>
-  <li>ici même, sur GitHub</li>
+  <li><a href="https://github.com/Kalemillion/Second-Wind---French/discussions">ici même</a>, sur GitHub</li>
 </ul>
 
 # Comment installer la traduction ?
