@@ -1,4 +1,5 @@
 # Breath of the Wild: Second Wind en français
+<h3><a href="https://github.com/Kalemillion/SecondWind_French_non-officiel/releases">Télécharger le patch français</a> | <a href="https://github.com/CEObrainz/Second-Wind/releases">Télécharger Second Wind</a> (requis)</h3>
 <img src="https://images.gamebanana.com/img/ss/wips/6559d16a45dfa.jpg" alt="index" style="width: 40%; height: 40%;">
 <h3>Tu as toujours voulu jouer à la vaste extension qu'est « <a href="https://github.com/CEObrainz/Second-Wind"> Second Wind</a> » en français ?<br>
 Alors ce mod est fait pour toi !</h3>
@@ -16,7 +17,7 @@ Votre dévoué serviteur ne change pas de nom, partout l'on m'appelle Kalemillio
 # Comment installer la traduction ?
 Captain Obvious au rapport, pour rappeler qu'il faut au préalable avoir installé [Second Wind](https://github.com/CEObrainz/Second-Wind/releases) via UKMM (version alpha uniquement) ou BCML.
  
-Chaque [release du patch](https://github.com/Kalemillion/Second-Wind---French/releases) est conçu pour une version précise (et précisée) de SW.
+Chaque [release du patch](https://github.com/Kalemillion/SecondWind_French_non-officiel/releases) est conçu pour une version précise (et précisée) de SW.
 Sélectionne celui qui correspond à ta plateforme & à ton gestionnaire ([BCML](https://gamebanana.com/tools/6624)/[UKMM](https://gamebanana.com/tools/12110)).
 
 Enfin, dans le gestionnaire de mod, veille à ce que le patch ait une priorité supérieure à SW.
