@@ -19,7 +19,7 @@ Captain Obvious au rapport, pour rappeler qu'il faut au préalable avoir install
 Chaque [release du patch](https://github.com/Kalemillion/Second-Wind---French/releases) est conçu pour une version précise (et précisée) de SW.
 Sélectionne celui qui correspond à ta plateforme & à ton gestionnaire ([BCML](https://gamebanana.com/tools/6624)/[UKMM](https://gamebanana.com/tools/12110)).
 
-Enfin, dans le gestionnaire de mod, veille à ce que le patch ait une priorité plus supérieure à SW.
+Enfin, dans le gestionnaire de mod, veille à ce que le patch ait une priorité supérieure à SW.
 
 # Comment soutenir le projet ?
 Pour le moment, je compte m'y coller seul, mais tu peux me soutenir en signalant les éventuels bugs/erreurs liées au texte dans [Issues](https://github.com/Kalemillion/Second-Wind---French/issues)
