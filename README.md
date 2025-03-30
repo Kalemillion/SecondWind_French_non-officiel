@@ -1,6 +1,8 @@
 # Breath of the Wild: Second Wind en français
 <h3><a href="https://github.com/Kalemillion/SecondWind_French_non-officiel/releases">Télécharger le patch français</a></h3>
-<img src="https://images.gamebanana.com/img/ss/wips/6559d16a45dfa.jpg" alt="index" style="width: 40%; height: 40%;">
+<img src="https://github.com/user-attachments/assets/6718a20c-9be0-44cf-ba3f-10ccd39be588" alt="index" style="width: 50%; ratio: 16/9;">
+
+
 <h3>Tu as toujours voulu jouer à la vaste extension qu'est <a href="https://github.com/CEObrainz/Second-Wind">Second Wind</a> en français ?<br>
 Alors ce mod est fait pour toi !</h3>
 Ce projet est en cours de développement, c'est dur de rattraper un train parti il y a plusieurs années, mais à terme, 100% du mod sera traduit, et à chaque mise à jour de SW, cette version française sera également améliorée.
