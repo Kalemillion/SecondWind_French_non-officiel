@@ -11,7 +11,7 @@ Ce projet est en cours de développement, c'est dur de rattraper un train parti 
 Pour me contacter, cela peut passer par :
 <ul>
   <li>le <a href="https://discord.com/invite/VU4z9AF">serveur Discord</a> de Second Wind</li>
-  <li>les pages GameBanana <a href="https://gamebanana.com/wips/584973">Wii U</a> ou <a href="https://gamebanana.com/wips/582169">Switch</a> du mod</li>
+  <li>les pages GameBanana <a href="https://gamebanana.com/mods/584973">Wii U</a> ou <a href="https://gamebanana.com/mods/582169">Switch</a> du mod</li>
   <li><a href="https://github.com/Kalemillion/Second-Wind---French/discussions">ici même</a>, sur GitHub</li>
 </ul>
 Votre dévoué serviteur ne change pas de nom, partout l'on m'appelle Kalemillion
