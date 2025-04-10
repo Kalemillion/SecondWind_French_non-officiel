@@ -17,12 +17,12 @@ Pour me contacter, cela peut passer par :
 Votre dévoué serviteur ne change pas de nom, partout l'on m'appelle Kalemillion
 
 # Comment installer la traduction ?
-Captain Obvious au rapport, pour rappeler qu'il faut au préalable avoir installé Second Wind pour [WiiU/CEMU](https://github.com/CEObrainz/Second-Wind/releases) ou pour [Switch/Ryujinx/Yuzu](https://github.com/Nitr4m12/Second-Wind-Switch/releases) via UKMM (sur Wii U uniquement) ou BCML (tout le reste).
+Captain Obvious au rapport, pour rappeler qu'il faut au préalable avoir installé Second Wind pour [WiiU/CEMU](https://github.com/CEObrainz/Second-Wind/releases) ou pour [Switch/Ryujinx/Yuzu](https://github.com/Nitr4m12/Second-Wind-Switch/releases) via UKMM (sur Wii U uniquement) ou BCML.
  
-Chaque [release du patch](https://github.com/Kalemillion/SecondWind_French_non-officiel/releases) est conçu pour une version précise (et précisée) de SW.
+Chaque [release](https://github.com/Kalemillion/SecondWind_French_non-officiel/releases) vise pour une version précise (et précisée) de SW.
 Sélectionne celui qui correspond à ta plateforme & à ton gestionnaire ([BCML](https://gamebanana.com/tools/6624)/[UKMM](https://gamebanana.com/tools/12110)).
 
 Enfin, dans le gestionnaire de mod, veille à ce que le patch ait une priorité supérieure à SW.
 
 # Comment soutenir le projet ?
-Pour le moment, je compte m'y coller seul, mais tu peux me soutenir en signalant les éventuels bugs/erreurs liées au texte dans [Issues](https://github.com/Kalemillion/Second-Wind---French/issues)
+
